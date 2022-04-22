@@ -67,8 +67,8 @@ function rendercarrito(){
         const Content = `
         <tr class="text-white ">
               
-                <td class="table_productos">
-                    <img src="${item.img}" alt="" width="150px">
+                <td class=" table_productos">
+                    <img src="${item.img}" alt="" width="120px">
                       <h6 class="title text-white">${item.title}</h6>
                 </td>
                 <td class="table_price text-white">${item.price}</td>
